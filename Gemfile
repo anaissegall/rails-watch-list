@@ -9,6 +9,7 @@ gem "rails", "~> 7.0.4", ">= 7.0.4.3"
 gem "autoprefixer-rails"
 gem "font-awesome-sass", "~> 6.1"
 gem "simple_form"
+gem "faker"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
